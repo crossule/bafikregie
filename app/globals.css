@@ -1,0 +1,145 @@
+@import "tailwindcss";
+
+/* ============================================
+   DESIGN TOKENS — BAFIK Medical Congress
+   ============================================ */
+@theme {
+  /* Colors */
+  --color-navy: #0a1f3d;
+  --color-navy-2: #102b52;
+  --color-navy-3: #061428;
+  --color-teal: #0e8f8f;
+  --color-teal-dark: #0a6b6b;
+  --color-teal-light: #d6f2f2;
+  --color-aqua: #3fe0e0;
+  --color-bg: #f6fafa;
+  --color-ink: #0f172a;
+  --color-grey: #5b6b7c;
+  --color-grey-light: #eef3f3;
+  --color-whatsapp: #25d366;
+
+  /* Typography */
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-manrope), var(--font-inter), ui-sans-serif, sans-serif;
+
+  /* Radius */
+  --radius-card: 1rem;
+  --radius-card-lg: 1.25rem;
+
+  /* Shadows */
+  --shadow-soft: 0 10px 30px rgba(10, 31, 61, 0.08);
+  --shadow-lift: 0 24px 60px rgba(10, 31, 61, 0.18);
+
+  /* Motion */
+  --ease-out-soft: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+* {
+  border-color: color-mix(in srgb, var(--color-navy) 8%, transparent);
+}
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  line-height: 1.15;
+  letter-spacing: -0.02em;
+  font-weight: 800;
+  color: inherit;
+}
+
+h1 { font-size: clamp(2.25rem, 5vw, 4rem); }
+h2 { font-size: clamp(1.75rem, 3.5vw, 2.75rem); }
+h3 { font-size: clamp(1.15rem, 2vw, 1.4rem); font-weight: 700; }
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img, video { max-width: 100%; display: block; }
+
+::selection {
+  background: var(--color-teal);
+  color: white;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-track { background: var(--color-grey-light); }
+::-webkit-scrollbar-thumb {
+  background: var(--color-teal);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover { background: var(--color-teal-dark); }
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+@utility container-bafik {
+  width: min(1280px, 92%);
+  margin-inline: auto;
+}
+
+@utility eyebrow {
+  display: inline-block;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-teal);
+}
+
+@utility text-balance {
+  text-wrap: balance;
+}
+
+/* ============================================
+   HEADER MENU — LIGHT BLUE (AQUA #3fe0e0)
+   ============================================ */
+header nav a,
+header nav button,
+.bafik-nav-link {
+  color: #3fe0e0 !important;
+}
+
+header nav a:hover,
+header nav button:hover,
+.bafik-nav-link:hover {
+  color: #ffffff !important;
+}
+
+aside nav a {
+  color: #3fe0e0 !important;
+}
+
+aside nav a:hover {
+  color: #ffffff !important;
+}

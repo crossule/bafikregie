@@ -1,0 +1,527 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "servicesList": {
+      "regie-scientifique": "Régie scientifique",
+      "production-audiovisuelle": "Production audiovisuelle",
+      "streaming-hybride": "Streaming & hybride"
+    },
+    "gallery": "Galerie",
+    "augmented": "Congrès augmenté",
+    "blog": "Blog",
+    "contact": "Contact",
+    "cta": "Demander un devis"
+  },
+  "footer": {
+    "tagline": "Des congrès au service d'une santé meilleure.",
+    "description": "Production, diffusion et valorisation de vos événements scientifiques en Afrique.",
+    "navigation": "Navigation",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "pillars": "Capter · Partager · Valoriser"
+  },
+  "common": {
+    "whatsapp": "WhatsApp",
+    "callUs": "Discuter sur WhatsApp",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "location": "Localisation",
+    "linkedin": "LinkedIn",
+    "youtube": "YouTube",
+    "loading": "Chargement…",
+    "back": "Retour",
+    "next": "Suivant",
+    "previous": "Précédent"
+  },
+  "languageSwitcher": {
+    "fr": "FR",
+    "en": "EN",
+    "label": "Changer de langue"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Des congrès au service d'une santé meilleure",
+      "title": "Donnez plus d'impact à vos congrès scientifiques.",
+      "subtitle": "BAFIK accompagne les sociétés savantes, établissements de santé, laboratoires pharmaceutiques et entreprises MedTech dans la production, la diffusion et la valorisation de leurs événements scientifiques.",
+      "ctaPrimary": "Parlons de votre congrès",
+      "ctaSecondary": "Découvrir nos services"
+    },
+    "pillars": {
+      "eyebrow": "Pourquoi BAFIK",
+      "title": "Une expertise pensée pour les événements de santé",
+      "subtitle": "BAFIK transforme vos conférences, échanges d'experts et communications scientifiques en contenus capables d'informer, de former et de prolonger l'impact de votre événement.",
+      "items": {
+        "expertise": {
+          "title": "Expertise Santé",
+          "description": "Compréhension des attentes des professionnels de santé et des sociétés savantes."
+        },
+        "experience": {
+          "title": "Expérience Terrain",
+          "description": "Expérience acquise sur des congrès d'ophtalmologie et de cardiologie."
+        },
+        "proximity": {
+          "title": "Proximité",
+          "description": "Coordination locale, réactive et adaptée aux réalités du marché africain."
+        },
+        "flexibility": {
+          "title": "Flexibilité",
+          "description": "Des prestations modulaires selon la taille, les besoins et le budget de l'événement."
+        }
+      }
+    },
+    "servicesTeaser": {
+      "eyebrow": "Nos services",
+      "title": "Production & régie scientifique",
+      "subtitle": "De l'expertise scientifique à la production audiovisuelle, nous vous accompagnons à chaque étape.",
+      "learnMore": "En savoir plus",
+      "viewAll": "Voir tous les services",
+      "items": {
+        "regie-scientifique": {
+          "title": "Régie scientifique",
+          "description": "Collecte et classement des présentations, gestion de la diffusion, coordination des salles."
+        },
+        "production-audiovisuelle": {
+          "title": "Production audiovisuelle",
+          "description": "Captation vidéo multi-caméras, projection, interviews d'experts et film récapitulatif."
+        },
+        "streaming-hybride": {
+          "title": "Streaming & hybride",
+          "description": "Diffusion en direct, intervenants à distance, enregistrement et replay."
+        }
+      }
+    },
+    "augmentedTeaser": {
+      "eyebrow": "Le congrès augmenté",
+      "title": "Faites vivre votre congrès après l'événement",
+      "subtitle": "BAFIK transforme les contenus produits pendant le congrès en outils de communication, de formation et de valorisation scientifique.",
+      "description": "Un congrès de quelques jours peut générer plusieurs mois de contenus scientifiques et de visibilité.",
+      "cta": "Découvrir le congrès augmenté",
+      "steps": {
+        "j7": {
+          "badge": "J+7",
+          "title": "Best Of",
+          "description": "Film court des temps forts du congrès."
+        },
+        "j15": {
+          "badge": "J+15",
+          "title": "Paroles d'experts",
+          "description": "Interviews des principaux intervenants."
+        },
+        "j30": {
+          "badge": "J+30",
+          "title": "Key Messages",
+          "description": "Synthèse des enseignements scientifiques."
+        },
+        "j90": {
+          "badge": "J+30 → J+90",
+          "title": "Capsules",
+          "description": "Modules thématiques pour la formation continue."
+        }
+      }
+    },
+    "galleryTeaser": {
+      "eyebrow": "Nos réalisations",
+      "title": "Découvrez nos congrès en images",
+      "subtitle": "Congrès, symposiums, masterclass et coulisses : un aperçu de notre travail aux côtés des sociétés savantes africaines.",
+      "viewAll": "Voir toute la galerie",
+      "items": {
+        "sio-2024": {
+          "title": "SIO 2024",
+          "specialty": "Ophtalmologie · Abidjan"
+        },
+        "safo-2024": {
+          "title": "SAFO 2024",
+          "specialty": "Ophtalmologie · Abidjan"
+        },
+        "africardio-2024": {
+          "title": "AFRICARDIO 2024",
+          "specialty": "Cardiologie · Abidjan"
+        }
+      }
+    },
+    "experience": {
+      "eyebrow": "Notre expérience",
+      "title": "Interventions sur des congrès de référence",
+      "subtitle": "En ophtalmologie (SIO, SAFO) et en cardiologie (AFRICARDIO), BAFIK a démontré sa capacité à produire, diffuser et valoriser des événements scientifiques majeurs."
+    },
+    "ctaBanner": {
+      "eyebrow": "Parlons de votre prochain congrès",
+      "title": "Construisons une solution adaptée à votre format",
+      "subtitle": "Congrès, symposium, journée scientifique, masterclass ou réunion d'experts — nous adaptons nos prestations à vos besoins.",
+      "ctaWhatsapp": "Discuter sur WhatsApp",
+      "ctaForm": "Demander un devis"
+    }
+  },
+  "services": {
+    "meta": {
+      "title": "Nos services",
+      "description": "Régie scientifique, production audiovisuelle, streaming et hybride : découvrez l'ensemble des prestations BAFIK pour vos congrès médicaux."
+    },
+    "hero": {
+      "eyebrow": "Nos services",
+      "title": "Des solutions complètes pour des congrès d'exception",
+      "subtitle": "De l'expertise scientifique à la production audiovisuelle, nous vous accompagnons à chaque étape de votre événement.",
+      "cta": "Discuter de votre projet",
+      "ctaSecondary": "Voir nos réalisations"
+    },
+    "overview": {
+      "learnMore": "En savoir plus"
+    },
+    "items": {
+      "regie-scientifique": {
+        "eyebrow": "Régie scientifique",
+        "title": "Régie scientifique",
+        "subtitle": "Une coordination rigoureuse pour un congrès fluide et professionnel.",
+        "ctaPrimary": "Discuter sur WhatsApp",
+        "ctaSecondary": "Demander un devis",
+        "card": {
+          "eyebrow": "En bref",
+          "title": "Coordination complète",
+          "body": "Nous prenons en charge la collecte des présentations, la gestion technique et la coordination des salles pour que vos intervenants se concentrent sur la science."
+        },
+        "features": {
+          "collecte": "Collecte et classement des présentations",
+          "powerpoint": "Gestion des PowerPoint et ordinateurs de diffusion",
+          "coordination": "Coordination des salles et des intervenants",
+          "accompagnement": "Accompagnement personnalisé des speakers",
+          "timing": "Respect du timing et des plages horaires",
+          "interface": "Interface unique entre organisateurs et intervenants"
+        },
+        "featuresSection": {
+          "eyebrow": "Ce que nous prenons en charge",
+          "title": "Une régie scientifique complète",
+          "subtitle": "Chaque détail logistique est géré par notre équipe, pour que votre congrès se déroule sans accroc."
+        },
+        "process": {
+          "eyebrow": "Notre méthode",
+          "title": "Un processus éprouvé en 4 étapes",
+          "subtitle": "De la préparation à la clôture, nous restons à vos côtés.",
+          "steps": {
+            "brief": {
+              "title": "Brief & cadrage",
+              "description": "Nous définissons ensemble les besoins et le déroulé précis."
+            },
+            "preparation": {
+              "title": "Préparation technique",
+              "description": "Collecte des supports, tests et validation du matériel."
+            },
+            "execution": {
+              "title": "Exécution sur site",
+              "description": "Régie en direct, coordination des salles et des intervenants."
+            },
+            "livraison": {
+              "title": "Livraison & suivi",
+              "description": "Bilan post-congrès et remise des contenus."
+            }
+          }
+        },
+        "gallerySection": {
+          "eyebrow": "En images",
+          "title": "La régie scientifique BAFIK"
+        },
+        "relatedSection": {
+          "eyebrow": "Réalisations",
+          "title": "Des congrès où nous avons opéré la régie",
+          "viewAll": "Voir toute la galerie"
+        }
+      },
+      "production-audiovisuelle": {
+        "eyebrow": "Production audiovisuelle",
+        "title": "Production audiovisuelle",
+        "subtitle": "Des contenus vidéo professionnels qui donnent de la valeur à votre congrès.",
+        "ctaPrimary": "Discuter sur WhatsApp",
+        "ctaSecondary": "Demander un devis",
+        "card": {
+          "eyebrow": "En bref",
+          "title": "Captation multi-caméras",
+          "body": "Nos équipes captent, montent et livrent des vidéos professionnelles prêtes à être diffusées sur tous vos canaux."
+        },
+        "features": {
+          "captation": "Captation vidéo HD et 4K",
+          "multicam": "Tournage multi-caméras pour un rendu dynamique",
+          "projection": "Projection sur écrans et diffusion en salle",
+          "interviews": "Interviews d'experts filmées",
+          "tablesRondes": "Tables rondes et sessions captées",
+          "filmRecap": "Film récapitulatif de l'événement"
+        },
+        "featuresSection": {
+          "eyebrow": "Ce que nous produisons",
+          "title": "Une production complète et sur-mesure",
+          "subtitle": "Chaque session peut être captée, montée et livrée dans un format adapté à vos besoins de diffusion."
+        },
+        "process": {
+          "eyebrow": "Notre méthode",
+          "title": "De la captation à la livraison",
+          "subtitle": "Un workflow maîtrisé pour des contenus de qualité professionnelle.",
+          "steps": {
+            "brief": {
+              "title": "Repérage & brief",
+              "description": "Analyse du lieu et définition des angles de captation."
+            },
+            "preparation": {
+              "title": "Installation technique",
+              "description": "Mise en place du matériel et des caméras."
+            },
+            "execution": {
+              "title": "Tournage en direct",
+              "description": "Captation multi-caméras pendant le congrès."
+            },
+            "livraison": {
+              "title": "Montage & livraison",
+              "description": "Post-production et remise des contenus finaux."
+            }
+          }
+        },
+        "gallerySection": {
+          "eyebrow": "En images",
+          "title": "Nos productions audiovisuelles"
+        },
+        "relatedSection": {
+          "eyebrow": "Réalisations",
+          "title": "Des congrès où nous avons produit les vidéos",
+          "viewAll": "Voir toute la galerie"
+        }
+      },
+      "streaming-hybride": {
+        "eyebrow": "Streaming & hybride",
+        "title": "Streaming & hybride",
+        "subtitle": "Diffusez votre congrès en direct, partout dans le monde, et prolongez son impact avec le replay.",
+        "ctaPrimary": "Discuter sur WhatsApp",
+        "ctaSecondary": "Demander un devis",
+        "card": {
+          "eyebrow": "En bref",
+          "title": "Un congrès sans frontières",
+          "body": "Nous diffusons votre événement en direct, intégrons des intervenants à distance et produisons un replay accessible après le congrès."
+        },
+        "features": {
+          "live": "Diffusion en direct sur vos plateformes",
+          "remote": "Intervenants à distance intégrés en visio",
+          "replay": "Enregistrement et replay disponibles",
+          "multiplatform": "Diffusion multi-plateformes (site, YouTube, réseaux)",
+          "recording": "Enregistrement HD de toutes les sessions",
+          "medialibrary": "Médiathèque pour vos contenus post-congrès"
+        },
+        "featuresSection": {
+          "eyebrow": "Ce que nous diffusons",
+          "title": "Streaming et replay professionnels",
+          "subtitle": "Vos sessions deviennent accessibles à un public bien plus large, en direct et après l'événement."
+        },
+        "process": {
+          "eyebrow": "Notre méthode",
+          "title": "Un streaming sans compromis",
+          "subtitle": "Chaque diffusion est préparée, testée et supervisée en direct.",
+          "steps": {
+            "brief": {
+              "title": "Cadrage du dispositif",
+              "description": "Choix des plateformes et du format de diffusion."
+            },
+            "preparation": {
+              "title": "Tests techniques",
+              "description": "Vérification du débit, de l'audio et des caméras."
+            },
+            "execution": {
+              "title": "Diffusion en direct",
+              "description": "Supervision du live et gestion des intervenants à distance."
+            },
+            "livraison": {
+              "title": "Replay & médiathèque",
+              "description": "Publication des rediffusions et archivage des contenus."
+            }
+          }
+        },
+        "gallerySection": {
+          "eyebrow": "En images",
+          "title": "Nos dispositifs de streaming"
+        },
+        "relatedSection": {
+          "eyebrow": "Réalisations",
+          "title": "Des congrès diffusés en direct par BAFIK",
+          "viewAll": "Voir toute la galerie"
+        }
+      }
+    }
+  },
+  "galerie": {
+    "meta": {
+      "title": "Galerie & réalisations",
+      "description": "Découvrez nos congrès scientifiques en photos et en vidéos : SIO, SAFO, AFRICARDIO et bien d'autres."
+    },
+    "hero": {
+      "eyebrow": "Galerie & réalisations",
+      "title": "Nos congrès en images et en vidéos",
+      "subtitle": "Congrès, symposiums, masterclass et coulisses : parcourez notre travail aux côtés des sociétés savantes africaines.",
+      "cta": "Discuter de votre projet",
+      "ctaSecondary": "Demander un devis"
+    },
+    "filters": {
+      "typeLabel": "Type d'événement",
+      "specialtyLabel": "Spécialité",
+      "all": "Tous"
+    },
+    "empty": "Aucun résultat pour ces filtres. Essayez une autre combinaison.",
+    "projectPage": {
+      "breadcrumb": {
+        "home": "Accueil",
+        "gallery": "Galerie"
+      },
+      "photos": {
+        "eyebrow": "Galerie photos",
+        "title": "Les moments forts en images"
+      },
+      "videos": {
+        "eyebrow": "Galerie vidéos",
+        "title": "Best Of, paroles d'experts et capsules"
+      },
+      "services": {
+        "eyebrow": "Services mobilisés",
+        "title": "Ce que BAFIK a mis en œuvre"
+      },
+      "testimonial": {
+        "eyebrow": "Témoignage"
+      },
+      "nav": {
+        "previous": "Réalisation précédente",
+        "next": "Réalisation suivante"
+      }
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact & Devis — BAFIK Medical Congress",
+      "description": "Demandez un devis sur mesure ou contactez l'équipe BAFIK pour votre congrès scientifique."
+    },
+    "hero": {
+      "eyebrow": "Parlons de votre événement",
+      "title": "Donnons de l'envergure à votre congrès scientifique",
+      "subtitle": "Remplissez le formulaire ci-dessous pour recevoir une proposition adaptée sous 48h."
+    },
+    "quoteTab": "Demander un devis",
+    "messageTab": "Message général",
+    "fields": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Numéro de téléphone",
+      "org": "Organisation / Société savante",
+      "eventType": "Type d'événement",
+      "eventTitle": "Titre de l'événement",
+      "expectedDate": "Date prévisionnelle",
+      "expectedAttendees": "Nombre de participants estimé",
+      "services": "Services souhaités",
+      "cityCountry": "Ville et pays",
+      "budget": "Budget indicatif",
+      "message": "Message ou cahier des charges",
+      "subject": "Objet",
+      "submitQuote": "Envoyer la demande de devis",
+      "submitMessage": "Envoyer le message",
+      "submitting": "Envoi en cours..."
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "À propos de BAFIK Medical Congress",
+      "description": "Découvrez BAFIK : partenaire technique et scientifique des sociétés savantes médicales en Afrique."
+    },
+    "hero": {
+      "eyebrow": "Notre Histoire & Notre Mission",
+      "title": "L'excellence audiovisuelle au service de la médecine africaine",
+      "subtitle": "Depuis plusieurs années, BAFIK accompagne les sociétés savantes, facultés de médecine et comités d'organisation dans la production, la diffusion et la valorisation de leurs congrès scientifiques."
+    },
+    "mission": {
+      "eyebrow": "Notre Ambition",
+      "title": "Transformer chaque congrès en référence scientifique",
+      "p1": "En Afrique, les congrès médicaux constituent des carrefours vitaux de partage de connaissances, de présentations cliniques et d'harmonisation des pratiques de santé. Pourtant, trop d'échanges précieux s'éteignent dès la clôture des sessions.",
+      "p2": "La mission de BAFIK est double : garantir une exécution technique irréprochable sur place (régie scientifique, captation 4K, traduction simultanée, retransmission hybride), puis sublimer ces contenus pour en faire des outils durables de formation médicale continue."
+    },
+    "stats": {
+      "congressCount": "+15",
+      "congressLabel": "Grands congrès panafricains",
+      "attendeesCount": "+12 000",
+      "attendeesLabel": "Participants en présentiel & hybride",
+      "hoursCount": "+500 h",
+      "hoursLabel": "De sessions captées et montées",
+      "countriesCount": "6",
+      "countriesLabel": "Pays d'intervention en Afrique de l'Ouest et Centrale"
+    },
+    "pillars": {
+      "eyebrow": "Nos Valeurs",
+      "title": "Une triple exigence au cœur de chaque projet",
+      "p1": {
+        "title": "Rigueur & Culture Médicale",
+        "description": "Nos équipes comprennent les codes, le rythme et les impératifs des congrès scientifiques : respect scrupuleux du timing, maîtrise des abstracts et discrétion en salle."
+      },
+      "p2": {
+        "title": "Haute Qualité Technique",
+        "description": "Caméras robotisées, régies broadcast multi-flux, captation chirurgicale en direct et liaisons haut débit sécurisées pour une diffusion sans faille."
+      },
+      "p3": {
+        "title": "Impact & Pérennité",
+        "description": "Nous prolongeons la durée de vie des échanges médicaux au-delà de l'événement grâce à des capsules courtes, des replays chapitrés et des modules thématiques."
+      }
+    }
+  },
+  "augmented": {
+    "meta": {
+      "title": "Congrès Augmenté — La Méthodologie BAFIK",
+      "description": "Prolongez l'impact de votre congrès médical : capsules vidéo, replays chapitrés, podcasts et modules de formation continue."
+    },
+    "hero": {
+      "eyebrow": "Innovation & Post-Événement",
+      "title": "Le Congrès Augmenté : votre événement ne s'arrête plus le dernier jour",
+      "subtitle": "Découvrez notre méthodologie exclusive qui transforme chaque conférence et symposium en un actif pédagogique et scientifique pérenne."
+    },
+    "intro": {
+      "eyebrow": "Constat & Solution",
+      "title": "Pourquoi 80% de la valeur d'un congrès s'évapore après sa clôture ?",
+      "text": "Des mois de préparation, des conférenciers de renommée internationale, des cas cliniques inédits... et quelques jours après, il ne reste souvent qu'un livre d'abstracts au fond d'un tiroir. BAFIK change la donne en déployant une chaîne de valorisation post-congrès structurée en 4 étapes clés."
+    },
+    "deliverables": {
+      "eyebrow": "Livrables",
+      "title": "Ce que nous produisons pour votre société savante",
+      "items": {
+        "replays": {
+          "title": "Replays Chapitrés & Indexés",
+          "description": "Chaque intervention est montée en haute définition avec les slides incrustées et synchronisées, découpée par orateur et sujet pour une recherche instantanée."
+        },
+        "capsules": {
+          "title": "Capsules Vidéos & Interviews d'Experts",
+          "description": "Formats percutants de 2 à 3 minutes synthétisant les messages clés et les nouvelles recommandations, parfaits pour les réseaux sociaux et la communauté médicale."
+        },
+        "podcast": {
+          "title": "Podcasts Scientifiques & Audio",
+          "description": "Extraits audios optimisés pour une écoute en mobilité par les praticiens hospitaliers et libéraux pendant leurs trajets."
+        },
+        "cme": {
+          "title": "Modules de Formation Continue (FMC)",
+          "description": "Structuration des sessions plénières et ateliers en parcours de formation avec quiz et évaluation pour certifier les acquis."
+        }
+      }
+    }
+  },
+  "blog": {
+    "meta": {
+      "title": "Blog & Actualités Scientifiques — BAFIK Medical",
+      "description": "Conseils, retours d'expérience et innovations pour l'organisation de vos congrès scientifiques en Afrique."
+    },
+    "hero": {
+      "eyebrow": "Insights & Retours d'Expérience",
+      "title": "L'actualité des congrès et de la communication médicale",
+      "subtitle": "Articles, méthodologies et conseils d'experts pour réussir l'organisation et la valorisation de vos rencontres scientifiques."
+    },
+    "readMore": "Lire l'article",
+    "readTime": "min de lecture",
+    "categories": {
+      "all": "Tous les articles",
+      "tech": "Technologie & Streaming",
+      "regie": "Régie scientifique",
+      "strategy": "Stratégie & Impact"
+    },
+    "newsletter": {
+      "title": "Restez informé des innovations médicales",
+      "subtitle": "Recevez nos derniers retours d'expérience et guides d'organisation directement dans votre boîte email.",
+      "button": "S'abonner"
+    }
+  }
+}
