@@ -5,6 +5,7 @@ export const routing = defineRouting({
   defaultLocale: "fr",
   /** FR has no prefix (/galerie), EN gets /en prefix (/en/galerie). */
   localePrefix: "as-needed",
+  localeDetection: false,
 });
 
 export type Locale = (typeof routing.locales)[number];
