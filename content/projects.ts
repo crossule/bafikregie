@@ -213,6 +213,50 @@ export const projects: Project[] = [
       role: "Président — AFRICARDIO",
     },
   },
+  {
+    slug: "multiplex-sanofi-bayer",
+    title: "Multiplex Sanofi & Bayer",
+    subtitle: "Symposiums satellites & Multiplex multi-sites",
+    specialty: "Cardiologie & Médecine Générale",
+    type: "Symposium",
+    city: "Abidjan & Multi-villes",
+    country: "Côte d'Ivoire & Région",
+    year: 2024,
+    featured: true,
+    cover:
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1600&q=80",
+    stats: [
+      { label: "Format", value: "Multiplex" },
+      { label: "Centres connectés", value: "Multi-sites" },
+      { label: "Laboratoires", value: "Sanofi · Bayer" },
+      { label: "Diffusion", value: "Direct & Replay" },
+    ],
+    photos: [
+      {
+        src: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=1200&q=80",
+        caption: "Multiplex scientifique — Retransmission interactive multi-centres",
+      },
+      {
+        src: "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=1200&q=80",
+        caption: "Coordination de la régie scientifique et des orateurs distants",
+      },
+    ],
+    videos: [
+      { youtubeId: "dQw4w9WgXcQ", title: "Multiplex — Sanofi & Bayer", category: "session" },
+    ],
+    services: [
+      "Régie scientifique",
+      "Streaming",
+      "Production audiovisuelle",
+      "Post-congrès",
+    ],
+    testimonial: {
+      quote:
+        "Une coordination technique sans accroc entre nos différents panels d'experts régionaux et une valorisation scientifique remarquable.",
+      author: "Direction des Affaires Médicales",
+      role: "Partenaires Industriels — Sanofi / Bayer",
+    },
+  },
 ];
 
 // ============================================================

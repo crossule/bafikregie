@@ -20,24 +20,24 @@ export async function generateMetadata({
 
 const TIMELINE = [
   {
-    badge: "J+7",
-    title: "Best-Of & Capsules Immédiates",
+    badge: "BEST OF",
+    title: "Film Court des Temps Forts",
     desc: "Montage express et diffusion des temps forts, résumés des plénières d'ouverture et premières capsules pour entretenir l'engouement sur vos réseaux.",
   },
   {
-    badge: "J+15",
-    title: "Interviews d'Experts & Replays Clés",
-    desc: "Paroles d'orateurs, synthèses des recommandations thérapeutiques et mise en ligne des premières sessions plénières chapitrées.",
+    badge: "PAROLES D'EXPERTS",
+    title: "Interviews des Principaux Intervenants",
+    desc: "Interviews des orateurs clés, synthèses des recommandations thérapeutiques et mise en ligne des premières sessions plénières chapitrées.",
   },
   {
-    badge: "J+30",
-    title: "Plateforme Numérique & E-learning",
-    desc: "Intégration de l'intégralité des vidéos synchronisées (caméra + slides) sur votre médiathèque sécurisée réservée aux membres.",
+    badge: "CAPSULES",
+    title: "Modules Thématiques & FMC",
+    desc: "Modules thématiques pour la formation médicale continue des praticiens et intégration sur votre médiathèque scientifique sécurisée.",
   },
   {
-    badge: "J+90",
-    title: "Modules FMC & Valorisation Continue",
-    desc: "Découpage en modules thématiques de Formation Médicale Continue (FMC) pour les praticiens n'ayant pu assister au congrès.",
+    badge: "RÉSULTAT",
+    title: "Visibilité & Valorisation Partenaires",
+    desc: "Un congrès de quelques jours génère plusieurs mois de contenus scientifiques et de visibilité pérenne pour la société savante et ses partenaires.",
   },
 ];
 
@@ -92,10 +92,10 @@ export default async function AugmentedCongressPage({
           <Reveal>
             <div className="text-center max-w-2xl mx-auto mb-16">
               <span className="inline-flex items-center gap-2 rounded-full bg-teal/10 px-3.5 py-1 text-xs font-bold uppercase tracking-wider text-teal">
-                <Calendar size={14} /> Chronologie d'impact
+                <Sparkles size={14} /> Formats Post-Événement
               </span>
               <h2 className="mt-4 text-3xl font-black text-navy md:text-4xl">
-                Une chaîne de valeur en 4 étapes
+                Faites vivre votre congrès après l'événement
               </h2>
             </div>
           </Reveal>

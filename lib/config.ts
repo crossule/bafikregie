@@ -10,19 +10,21 @@
 export const siteConfig = {
   name: "BAFIK Medical Congress",
   shortName: "BAFIK",
-  tagline: "Des congrès au service d'une santé meilleure",
+  company: "BAFIK SARL",
+  tagline: "Capter · Partager · Valoriser",
+  subtitle: "Communication Santé Audiovisuel Digital",
   description:
-    "Production, diffusion et valorisation de vos congrès scientifiques en Afrique.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://bafik.com",
+    "Production audiovisuelle • Régie scientifique • Streaming • Contenus experts • Valorisation sponsors",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://bafiksarl.com",
 
   contact: {
     /** WhatsApp number in international format WITHOUT + or spaces. */
-    whatsapp: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "22500000000",
+    whatsapp: process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || "2250707806207",
     /** Default WhatsApp pre-filled message. */
     whatsappMessage:
       "Bonjour BAFIK, je souhaite discuter de mon prochain congrès scientifique.",
-    email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "contact@bafik.com",
-    phone: process.env.NEXT_PUBLIC_PHONE || "+225 XX XX XX XX XX",
+    email: process.env.NEXT_PUBLIC_CONTACT_EMAIL || "fadikamohamed@yahoo.fr",
+    phone: process.env.NEXT_PUBLIC_PHONE || "+225 07 07 80 62 07",
     location: "Abidjan, Côte d'Ivoire",
   },
 

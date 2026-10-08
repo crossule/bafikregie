@@ -23,7 +23,7 @@ export type ContactEmailPayload = {
 };
 
 export async function sendQuoteEmails(data: QuoteEmailPayload) {
-  const adminEmail = process.env.ADMIN_NOTIFICATION_EMAIL || "contact@bafik.com";
+  const adminEmail = process.env.ADMIN_NOTIFICATION_EMAIL || "fadikamohamed@yahoo.fr";
 
   // Formatted summary for notifications
   const summary = `

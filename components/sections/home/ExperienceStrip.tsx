@@ -4,7 +4,14 @@ import { Eyebrow } from "@/components/ui/Eyebrow";
 import { Reveal } from "@/components/ui/Reveal";
 import Image from "next/image";
 
-const TAGS = ["SIO", "SAFO", "AFRICARDIO", "Ophtalmologie", "Cardiologie"];
+const TAGS = [
+  "SIO",
+  "SAFO",
+  "AFRICARDIO",
+  "Multiplex (Sanofi, Bayer)",
+  "Ophtalmologie",
+  "Cardiologie",
+];
 
 export function ExperienceStrip() {
   const t = useTranslations("home.experience");

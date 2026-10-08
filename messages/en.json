@@ -101,24 +101,24 @@
       "cta": "Discover the augmented congress",
       "steps": {
         "j7": {
-          "badge": "D+7",
+          "badge": "BEST OF",
           "title": "Best Of",
-          "description": "Short film of the highlights."
+          "description": "Short film highlighting the event."
         },
         "j15": {
-          "badge": "D+15",
-          "title": "Expert voices",
-          "description": "Interviews with main speakers."
+          "badge": "EXPERTS",
+          "title": "Expert Voices",
+          "description": "Interviews with key speakers."
         },
         "j30": {
-          "badge": "D+30",
-          "title": "Key Messages",
-          "description": "Summary of scientific takeaways."
+          "badge": "CAPSULES",
+          "title": "Thematic Capsules",
+          "description": "Thematic modules for continuing medical education."
         },
         "j90": {
-          "badge": "D+30 → D+90",
-          "title": "Capsules",
-          "description": "Thematic modules for continuing education."
+          "badge": "RESULT",
+          "title": "Visibility & Partners",
+          "description": "A few-day congress generates months of scientific content and visibility for societies and partners."
         }
       }
     },
@@ -139,13 +139,17 @@
         "africardio-2024": {
           "title": "AFRICARDIO 2024",
           "specialty": "Cardiology · Abidjan"
+        },
+        "multiplex-sanofi-bayer": {
+          "title": "Multiplex Sanofi & Bayer",
+          "specialty": "Cardiology · Multi-sites"
         }
       }
     },
     "experience": {
       "eyebrow": "Our experience",
       "title": "Work on leading congresses",
-      "subtitle": "In ophthalmology (SIO, SAFO) and cardiology (AFRICARDIO), BAFIK has proven its ability to produce, broadcast and promote major scientific events."
+      "subtitle": "In ophthalmology (SIO, SAFO) and cardiology (AFRICARDIO, Multiplex (Sanofi, Bayer)), BAFIK has proven its ability to produce, broadcast and promote major scientific events."
     },
     "ctaBanner": {
       "eyebrow": "Let's talk about your next congress",

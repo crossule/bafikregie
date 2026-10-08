@@ -101,24 +101,24 @@
       "cta": "Découvrir le congrès augmenté",
       "steps": {
         "j7": {
-          "badge": "J+7",
+          "badge": "BEST OF",
           "title": "Best Of",
           "description": "Film court des temps forts du congrès."
         },
         "j15": {
-          "badge": "J+15",
+          "badge": "EXPERTS",
           "title": "Paroles d'experts",
           "description": "Interviews des principaux intervenants."
         },
         "j30": {
-          "badge": "J+30",
-          "title": "Key Messages",
-          "description": "Synthèse des enseignements scientifiques."
+          "badge": "CAPSULES",
+          "title": "Capsules thématiques",
+          "description": "Modules thématiques pour la formation continue."
         },
         "j90": {
-          "badge": "J+30 → J+90",
-          "title": "Capsules",
-          "description": "Modules thématiques pour la formation continue."
+          "badge": "RÉSULTAT",
+          "title": "Visibilité & Partenaires",
+          "description": "Un congrès de quelques jours génère plusieurs mois de contenus scientifiques et de visibilité pour la société savante et ses partenaires."
         }
       }
     },
@@ -139,13 +139,17 @@
         "africardio-2024": {
           "title": "AFRICARDIO 2024",
           "specialty": "Cardiologie · Abidjan"
+        },
+        "multiplex-sanofi-bayer": {
+          "title": "Multiplex Sanofi & Bayer",
+          "specialty": "Cardiologie · Multi-sites"
         }
       }
     },
     "experience": {
       "eyebrow": "Notre expérience",
       "title": "Interventions sur des congrès de référence",
-      "subtitle": "En ophtalmologie (SIO, SAFO) et en cardiologie (AFRICARDIO), BAFIK a démontré sa capacité à produire, diffuser et valoriser des événements scientifiques majeurs."
+      "subtitle": "En ophtalmologie (SIO, SAFO) et en cardiologie (AFRICARDIO, Multiplex (Sanofi, Bayer)), BAFIK a démontré sa capacité à produire, diffuser et valoriser des événements scientifiques majeurs."
     },
     "ctaBanner": {
       "eyebrow": "Parlons de votre prochain congrès",

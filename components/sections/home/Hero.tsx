@@ -72,7 +72,7 @@ export function Hero() {
               <div className="mt-12 grid max-w-xl grid-cols-2 gap-3 sm:grid-cols-4">
                 <Stat value="SIO · SAFO" label="Ophtalmologie" />
                 <Stat value="AFRICARDIO" label="Cardiologie" />
-                <Stat value="J+7 → J+90" label="Post-congrès" />
+                <Stat value="360°" label="Post-congrès" />
                 <Stat value="Abidjan" label="Côte d'Ivoire" />
               </div>
             </Reveal>
